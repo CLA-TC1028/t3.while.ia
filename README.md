@@ -33,5 +33,5 @@ Revisa la aplicación de cada uno de los estándares de codificación. Si se cum
 Estando en el directorio de cualquier ejercicio puede regresar al `Home` del repositorio, usando:
 
 ```
-cd ..
+cd /workspaces/t3.while.ia
 ```
